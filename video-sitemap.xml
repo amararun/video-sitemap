@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.tigzig.com/video-build-machine-learning-model-chatgpt</loc>
+    <video:video>
+      <video:thumbnail_loc>https://static.wixstatic.com/media/ef0c19_ae9cac54f5d449c3a6bc6609971d97be~mv2.png</video:thumbnail_loc>
+      <video:title>Build Machine Learning Model with ChatGPT</video:title>
+      <video:description>
+        Build Machine Learning model with ChatGPT Plus, with prompts and instructions. Including Overfitting check, decile table, feature importance, scored dataset & more.
+      </video:description>
+      <video:player_loc>
+        https://youtu.be/v_Z9F60QymA
+      </video:player_loc>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.tigzig.com/video-llamaparse-complex-pdf-10k-annualreports-analyze-with-excel-rag-pipline</loc>
+    <video:video>
+      <video:thumbnail_loc>https://static.wixstatic.com/media/ef0c19_2a6bc7cc226247c6a87dc0ba6b5815c2~mv2.png</video:thumbnail_loc>
+      <video:title>Llama Parser</video:title>
+      <video:description>
+        Live Tool | Convert complex PDF to text with Llama Parse. Analyze with ChatGPT, LLMs , Excel, RAG pipeline
+      </video:description>
+      <video:player_loc>
+        https://youtu.be/sixXhgabKkg
+      </video:player_loc>
+    </video:video>
+  </url>
+</urlset>
